@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMTA SEM</string>
+    <string name="nova_udalost">Nová událost</string>
+    <string name="ulozit">Uložit</string>
+    <string name="popis_udalosti">Popis události…</string>
+    <string name="nazev_udalosti">Název události…</string>
+    <string name="cas_konani">Čas konání</string>
+    <string name="vybrat">Vybrat</string>
+    <string name="datum_konani">Datum konání</string>
+    <string name="templateDate">19. 05. 2023</string>
+    <string name="upozorneni">Upozornění</string>
+    <string name="tempateEventDescription">Zkouška ZkouškaZkouškaZkouškaZkouškaZkouška ZkouškaZkouškaZkouškaZkouškaZkouškaZkouškaZkouškaZkouškaZkouška</string>
+    <string name="templateEventName">BMTA</string>
+    <string name="odstraneni_udalosti">Odstranění události</string>
+    <string name="udalosti">Události</string>
+    <string name="detail_udalosti">Detail události</string>
+</resources>
